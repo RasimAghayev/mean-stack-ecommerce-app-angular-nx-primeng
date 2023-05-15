@@ -1,0 +1,36 @@
+{
+  "name": "mean-stack-ecommerce-app-angular-nx-primeng",
+  "version": "1.0.0",
+  "description": "https://pashabank.udemy.com/course/mean-stack-ecommerce-app-angular-nx-primeng/",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasim Aghayev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasimAghayev/mean-stack-ecommerce-app-angular-nx-primeng.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "E-Commerce",
+    "App:",
+    "Angular",
+    "15",
+    "NX",
+    "PrimeNg",
+    "[2023]"
+  ],
+  "bugs": {
+    "url": "https://github.com/RasimAghayev/mean-stack-ecommerce-app-angular-nx-primeng/issues"
+  },
+  "homepage": "https://github.com/RasimAghayev/mean-stack-ecommerce-app-angular-nx-primeng#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8"
+  }
+}
