@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/RasimAghayev/mean-stack-ecommerce-app-angular-nx-primeng#readme",
   "dependencies": {
+    "cjs-loader": "^0.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
